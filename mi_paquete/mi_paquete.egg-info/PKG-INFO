@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mi_paquete
+Version: 0.1
+Summary: Un paquete que contiene la clase Cliente para modelar clientes en una página de compras
+Home-page: https://github.com/tu_usuario/mi_paquete
+Author: Tu Nombre
+Author-email: tu@email.com
